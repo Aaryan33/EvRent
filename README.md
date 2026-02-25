@@ -34,3 +34,17 @@ EvRental App allows users to rent electric vehicles on an hourly basis, with the
 - **Home Delivery Option:** Providing an option for home delivery of rental vehicles to enhance user convenience.
 - **Mechanic Services:** Offering mechanic services for on-site assistance and maintenance of rental vehicles.
 - **EV Taxi Service:** Expanding the platform to include an EV taxi service, providing an eco-friendly alternative for daily commutes.
+
+
+## Preview
+
+
+
+
+
+https://github.com/user-attachments/assets/8feef97c-9d5c-4aa4-b11e-806634d1b6df
+
+
+
+
+
